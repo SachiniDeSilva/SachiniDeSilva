@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachini Dishala</h1>
-<h3 align="center">A passionate frontend Developer & UI UX designer from Sri lanka</h3>
+<h3 align="center">A passionate frontend Developer, Backend Developer & UI UX designer from Sri lanka</h3>
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.bfe7c3ec69bf379f62a5de6a34acdc5d?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1400%2f1*qdAW1TjCN57h1lbuuzvchg.gif&ehk=w7OIa913DGrDOfbARBfao2orIGNsejbu%2fLu1qfTbQcM%3d">
 - 📫 How to reach me **sachiniddesilva@gmail.com**
 
@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sachi_dsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachi_dsilva" height="30" width="40" /></a> 
+<a href="linkedin.com/in/sachini-de-silva-973b68218" target="blank"><img align="center" src="https://www.cdandassociatesinc.com/wp-content/uploads/2020/12/linkedin-logo-transparent-1.png" alt="sachi_dsilva" height="30" width="40" /></a> 
   
 </p>
 
