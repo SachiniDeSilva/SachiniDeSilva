@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SachiniDeSilva&show_icons=true&locale=en&layout=compact" alt="desi98" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachiniDeSilva)](https://github.com/SachiniDeSilva/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachiniDeSilva&show_icons=true&theme=radical)
