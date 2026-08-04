@@ -5,8 +5,8 @@
 
 
 - 📫 How to Hire me <a href= "https://bucolic-gingersnap-bc3710.netlify.app"> Sachini De Silva</a>
-- ⚡ Fun fact **I am funny**
-- 🌱 I’m currently learning React.js, Next.js, Tailwind.css, Docker
+- ⚡ Passionate **Software Engineer**
+- 🌱 I’m currently learning React.js, Next.js, Tailwind.css, Docker , .Net
   
 
 <h3 align="left">Connect with me:</h3>
